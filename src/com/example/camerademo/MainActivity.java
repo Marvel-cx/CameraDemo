@@ -65,7 +65,7 @@ public class MainActivity extends Activity implements OnClickListener {
 	private Bitmap bmp;                             //导入临时图片
 	private Bitmap dbmp;
 	private Uri imageUri;                            //拍照Uri
-	private String pathTakePhoto;              //拍照路径
+	private String pathTakePhoto;              //拍照路径，拍照
 	private String bitToStrBase64;
 	private String result;
 	private Handler handler;
